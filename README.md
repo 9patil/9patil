@@ -9,7 +9,7 @@
 
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙋𝙧𝙖𝙩𝙞𝙠 𝙋𝙖𝙩𝙞𝙡 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
 <p align="center">
-<a href="www.linkedin.com/in/9patil/">
+<a href="https://www.linkedin.com/in/9patil/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
  </a>
 <a href="https://github.com/9patil/">
