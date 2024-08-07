@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pratikpatil2020/pratikpatil2020/main/Software%20Developer.jpg" width="100%"
+    <img src="https://raw.githubusercontent.com/9patil/9patil/main/software dev.jpg" width="100%"
         align="center">
 </div>
 <br>
