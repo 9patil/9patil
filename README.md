@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/9patil/9patil/main/software dev.jpg" width="100%"
+    <img src="https://raw.githubusercontent.com/9patil/9patil/main/IMG_8126.jpeg" width="100%"
         align="center">
 </div>
 <br>
